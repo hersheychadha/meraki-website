@@ -1,0 +1,82 @@
+
+/* this is for the document BG*/
+.hello{
+  background-color: #FFFFFF;
+  text-align: center;
+  font-family: 'Arial', cursive;
+}
+/* this is for the navbar color*/
+.navbar-custom{
+background-color: #FFFFFF;
+}
+/* So this essentially colors the text for all anchor tags inside the navbar*/
+.navbar.navbar-expand-lg.navbar-light.navbar-custom li a {
+
+  font-family: 'Arial', cursive;
+}
+.navbar-nav > li > .dropdown-menu{
+  background-color: #FF9F1C;
+}
+.resize
+{
+
+    width: 80px;
+    height: 90px;
+
+}
+.navbar-nav li {
+
+background-color: #FFFFFF;
+border: 6px solid #FFFFFF;
+}
+.cla{
+  background-color: #89DBB6 !important;
+}
+.cla1{
+  background-color: #FFD786 !important;
+}
+.cla2{
+  background-color: #FF9486 !important;
+}
+td{
+  width: 500px;
+  height:90px;
+}
+p{
+  text-align: center !important;
+  padding: 20px;
+  text-align: left;
+}
+.resize1
+{
+    text-align: center;
+    width: 300px;
+    height: auto;
+    border: 18px solid #FFBF69
+
+}
+.right{
+  padding-right: 200px;
+  padding-left: 200px;
+  padding-bottom: 50px;
+  text-align: left !important;
+}
+.topgap
+{
+  padding-top: 30px !important;
+}
+.footer {
+  width: 100%;
+  background-color:#ffffff ;
+
+}
+.boxy {
+  align-self: center;
+  border: 15px solid #89DBB6;
+  padding: 50px;
+  margin: 20px;
+}
+.font
+{
+  font-family: 'Great Vibes', cursive;
+}
