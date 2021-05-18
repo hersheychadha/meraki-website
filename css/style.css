@@ -464,7 +464,7 @@ font-size: 21px;
 
 .about {
      margin-top: 90px;
-     background-image:url("/images/vision.png") ;
+     background-image:url("../images/vision.png") ;
      padding: 30px 0;
 }
 .aboot {
